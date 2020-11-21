@@ -1,13 +1,13 @@
 # jest-simplified-reporter
 
-##Requirements
+## Requirements
 ```js
 //jest.config.js
 coverageProvider: "v8"
 ``` 
 your test command must also collect coverage.
 
-##Install
+## Install
 ```
 npm i --save-dev jest-simplified-reporter 
 ```

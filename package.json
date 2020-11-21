@@ -1,13 +1,27 @@
 {
   "name": "jest-simplified-reporter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.2",
+  "description": "A simple but detailed jest reporter",
+  "repository" : "https://github.com/zedgell/jest-simplified-reporter",
   "main": "Index.js",
   "scripts": {
     "test": "jest --collectCoverage"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "jest",
+    "jest reporter",
+    "reporter",
+    "mocha",
+    "json",
+    "jasmine",
+    "reporters",
+    "custom",
+    "spec",
+    "results",
+    "processor",
+    "reporter"
+  ],
+  "author": "Zachary Edgell",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^9.0.1",
